@@ -371,13 +371,13 @@ p.blog-text{
 }
 
 .office-logo {
-  width: 100px;
+  width: 300px;
 }
 
 @media (max-width: 768px){ 
     .office-logo{
-      height: 100px;
-      width: 60px;
+      height: 591px;
+      width: 253px;
   }
 }
 
