@@ -1,4 +1,7 @@
-# Business Jekyll Theme
+# Bright Bee Technology Center
+
+Bright Bee Technology Center is a start up company, helping  industry interpret their data results with more reliability and improved performance via using Artificial Intelligence. Interpreting data results currently replies on human experience, which is prone to making mistakes and missing flaw indications. Our system aims to promote this reliability by proposing unified approach, combining human expertise with artificial intelligence. 
+
 
 Business Jekyll Theme is a theme that is designed to be used for small and medium business. It is designed by a team from [Technext](https://github.com/technext/). The theme is then ported over by [Melvin Ch'ng](http://melvinchng.github.io) for Jekyll support. The original source code can be obainted from Technext's [repository](https://github.com/technext/office)
 
@@ -7,9 +10,10 @@ Unlike most Jekyll Themes, Business Jekyll Theme is not meant to be a single pag
 Big thanks to the creator of Office as this theme would not be possible without their hard work! You are always welcome to contribute to this repository to make it better!
 
 **Example Site**
-- [Business Jekyll Theme](https://business-jekyll-theme.github.io)
+- [Bright Bee Technology Center](https://BrightBeeTech.com)
 
 **Example Site From The Original Creator**
+- [Bright Bee Technology Center](https://BrightBeeTech.com)
 - [Office Template](http://demo.themewagon.com/preview/office-responsive-multipage-bootstrap-template)
 
 ## Feature
