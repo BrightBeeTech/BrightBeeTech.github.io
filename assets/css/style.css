@@ -148,11 +148,11 @@ float: right;
 body {
     font-size: 15px;
     line-height: 24px;
-    background:#F8FAFF;
+    background:rgb(236, 245, 245);
 }
 
 a {
-    color: #55CBD2;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     -o-transition: all .3s;
     -moz-transition: all .3s;
@@ -232,7 +232,7 @@ address {
 .navbar {
   font-weight: bold;
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 20px;
   margin-bottom: 0;
 }
 /*
@@ -371,13 +371,16 @@ p.blog-text{
 }
 
 .office-logo {
-  width: 300px;
+  width: 72px;
+  height: 80px;
+  padding: 0px;
+  border: 20px;
 }
 
 @media (max-width: 768px){ 
     .office-logo{
-      height: 127px;
-      width: 295px;
+      height: 60px;
+      width: 50px;
   }
 }
 
@@ -470,7 +473,7 @@ p.blog-text{
 }
 .services-group{
   padding: 10px;
-  background:#061F20;
+  background:rgb(80, 200, 190);
   color: white;
 }
 .service-icon{
@@ -505,7 +508,7 @@ footer{
    margin-top:40px;
    left: 0;
    right: 0;
-   background: black;
+   background: rgba(22, 86, 102, 0.521);
    bottom: 0px;
 }
 
@@ -515,7 +518,7 @@ footer h3 {
 }
 
 .footer-contact{
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 
@@ -525,7 +528,7 @@ footer h3 {
 }
 
 #social-icons .btn-group {
-    color: #55CBD2;
+    color: rgb(255, 0, 0);
     margin-right: 15px;
 }
 #social-icons .btn-group:hover {
